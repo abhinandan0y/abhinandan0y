@@ -43,7 +43,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abhinandan0y&theme=dark&mode=weekly)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinandan0y&layout=compact&theme=vision-friendly-dark)](https://github.com/abhinandan0y/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinandan0y&layout=compact&theme=vision-friendly-dark)]
 
 
 <!--
