@@ -16,13 +16,13 @@
   <img src="https://komarev.com/ghpvc/?username=abhinandan0y&style=flat-square&color=blue" alt=""/>
 </div>
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Senior Bioinformatics Programmer.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Researcher.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I code my own joy!.
 
-- :website: contact@: www.BioInformaticsFuture.com
+- 🕸️: www.BioInformaticsFuture.com
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
