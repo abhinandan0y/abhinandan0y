@@ -27,7 +27,7 @@
 **Knowlegde is FREE but Solution is Your's🤘🏻**
 
 **Keep on Learning and Executing...🏃🏻** <div style="width: 100%;">
-  <img src="https://www.bioinformaticsfuture.com/images/bioinformatics_lab.png" style="width: 100%;" alt="bioinformatics_lab.png">
+  <img src="https://www.bioinformaticsfuture.com/images/BioInformatics_lab.png" style="width: 100%;" alt="bioinformatics_lab.png">
 </div>
 
 
