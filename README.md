@@ -22,6 +22,8 @@
 
 - :zap: In my free time, I code my own joy!.
 
+- 🕸️: Quantum & Spaceship Enthusiast
+
 - 🕸️: www.BioInformaticsFuture.com
 ---
 **Knowlegde is FREE but Solution is Your's🤘🏻**
