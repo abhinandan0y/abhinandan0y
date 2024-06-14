@@ -24,6 +24,8 @@
 
 - 🕸️: Quantum & Spaceship Enthusiast
 
+- 🕸️: XR Vision to make it reality of AI using Quantum Computing to do Space exploration.
+
 - 🕸️: www.BioInformaticsFuture.com
 ---
 **Knowlegde is FREE but Solution is Your's🤘🏻**
