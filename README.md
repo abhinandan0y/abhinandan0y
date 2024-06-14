@@ -18,7 +18,7 @@
 
 - :telescope: I’m working as a Senior Bioinformatics Programmer.
 
-- :seedling: #Researcher
+- :seedling: #Researcher @BioInformatics_Scientist
 
 - :zap: In my free time, I code my own joy!.
 
