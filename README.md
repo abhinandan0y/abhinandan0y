@@ -22,11 +22,11 @@
 
 - :zap: In my free time, I code my own joy!.
 
-- 🕸️: Quantum & Spaceship Enthusiast
+- 🍕 Quantum & Spaceship Enthusiast
 
 - 🕸️: XR Vision to make it reality of AI using Quantum Computing to do Space exploration.
 
-- 🕸️: www.BioInformaticsFuture.com
+- ⚛️ www.BioInformaticsFuture.com
 ---
 **Knowlegde is FREE but Solution is Your's🤘🏻**
 
