@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 <div id="badges">
-  <a href="https://www.linkedin.com/in/abhinandan-yadav-7758a0179">
+  <a href="https://www.linkedin.com/in/sci-abhinandan-yadav-7758a0179">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" width="77" alt="LinkedIn Badge"/>
 <!--  </a>
   <a href="your-youtube-URL">
